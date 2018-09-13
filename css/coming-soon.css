@@ -9,6 +9,7 @@ html {
 }
 
 body {
+  background: url("../img/bg-mobile-fallback.jpg") #002E66 no-repeat center center scroll;
   height: 100%;
   min-height: 35rem;
   position: relative;
